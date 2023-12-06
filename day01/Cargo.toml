@@ -1,0 +1,13 @@
+[package]
+name = "day01"
+version = "0.1.0"
+edition = "2021"
+description = "Advent of Code 2023"
+repository = "https://github.com/rafagarciac/advent-of-code-2023/"
+license = "MIT"
+authors = ["Rafael García <r.gc@hotomail.es>"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
